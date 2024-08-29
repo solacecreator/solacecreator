@@ -13,7 +13,7 @@ I'm a passionate Front-End Developer and Blogger with a keen interest in creatin
 - Languages: HTML, CSS, JavaScript, TypeScript
 - Frameworks/Libraries: React, Vue.js, Bootstrap, Tailwind CSS
 - Tools: Git, GitHub, Webpack, VS Code
-- Design: Figma, Adobe XD, Photoshop
+- Design: Figma, Adobe XD, Photoshop, Canva
 📈 Current Focus
 - I’m currently diving deeper into front-end development, now I am working on a blog representing content writing like stories, etc. I'm also expanding my knowledge in back-end technologies to become a more well-rounded developer.
 
