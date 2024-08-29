@@ -26,7 +26,7 @@ Always curious and eager to learn, I’m exploring new tools and methodologies t
 I’m always open to new opportunities, collaborations, and discussions. Feel free to reach out!
 
 📡 Email
-- tumuaditya2002@gmail.com
+- adityatumu1382@gmail.com
 
 
 
